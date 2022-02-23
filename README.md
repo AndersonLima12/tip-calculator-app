@@ -39,8 +39,8 @@
 ## - Imagens do projeto...😁
 
 <h1 align="center">
-  <img align="right" width="820em" alt="Desktop Result" title="#Desktop" src="/design/Desktop-resultado.png" />
-  <img height="420em" alt="Mobile Result" title="#Mobile" src="/design/Mobile.png" />
+  <img align="right" width="620em" alt="Desktop Result" title="#Desktop" src="/design/Desktop-resultado.png" />
+  <img height="320em" alt="Mobile Result" title="#Mobile" src="/design/Mobile.png" />
 </h1>
 
 ### 👨🏻‍💻 Para você que ainda não sabe ? 👨🏻‍💻
